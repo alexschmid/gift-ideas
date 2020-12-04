@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Alex’s Birthday and Christmas Gift Ideas
-github: "false"
-show_downloads: "false"
+description: [A short description of your site's purpose]
+github:
+	  is_project_page: false
