@@ -13,4 +13,7 @@ $48
 <a href="https://www.amazon.com/gp/product/B083LQRY6V/"><img src="https://images-na.ssl-images-amazon.com/images/I/71r46vBV9dL._AC_SL1500_.jpg" align="center" width="64" ></a> [42-Bottle Wine Rack](https://www.amazon.com/gp/product/B083LQRY6V/) |
 $70
 
+<a href="https://www.menards.com/main/heating-cooling/fireplaces-stoves/fireplace-wood-stove-tools-accessories/wood-stove-accessories/pleasant-hearth-products-reg-ash-bucket-with-shovel/fa025z-9/p-1444431364819-c-1524062365875.htm"><img src="https://hw.menardc.com/main/items/media/GHPGR001/ProductLarge/FA025Z-M-6401060-ash-bucket-shovel.jpg" align="center" width="64" ></a> [Ash Bucket with Shovel](https://www.menards.com/main/heating-cooling/fireplaces-stoves/fireplace-wood-stove-tools-accessories/wood-stove-accessories/pleasant-hearth-products-reg-ash-bucket-with-shovel/fa025z-9/p-1444431364819-c-1524062365875.htm) | 
+$30
+
 <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Target, Apple, or Amazon gift cards
