@@ -20,3 +20,5 @@ $30
 ~$200 and up
 
 <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Target, Apple, or Amazon gift cards
+
+[Chelsea and Elise](chelsea-elise.md)
