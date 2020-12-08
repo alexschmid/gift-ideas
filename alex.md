@@ -1,6 +1,4 @@
-# Gift Ideas for Alex
-
-##### [back](readme.md)
+# Gift Ideas for Alex <img src="assets/images/alex2.png" align="center" width="64" > 
 
 <a href="https://www.amazon.com/DJI-OM-Handheld-Smartphone-Stabilizer/dp/B08CMVGVQY"><img src="https://images-na.ssl-images-amazon.com/images/I/71yauPbL7KL._AC_SL1500_.jpg" align="center" width="64" ></a> [DJI OM 4 smartphone stabilizer](https://www.amazon.com/DJI-OM-Handheld-Smartphone-Stabilizer/dp/B08CMVGVQY) |
 $149
@@ -24,3 +22,5 @@ $30
 ~$200 and up
 
 <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Target, Apple, or Amazon gift cards
+
+##### [back](readme.md)
