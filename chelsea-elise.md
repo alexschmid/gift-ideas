@@ -8,8 +8,8 @@ $40
 
 # Gift Ideas for Chelsea <img src="assets/images/chelsea.png" align="center" width="64" >
 
-<a href="https://www.amazon.com/gp/product/1452180075/"><div id="wrapper"><img id="myImage" src="https://images-na.ssl-images-amazon.com/images/I/91G31QZtdEL.jpg" align="center" width="64" /></a> [Sleuth & Solve: History: 20+ Mind-Twisting Mysteries](https://www.amazon.com/gp/product/) | 
-$17</div>
+<a href="https://www.amazon.com/gp/product/1452180075/"><div id="wrapper"><img id="myImage" src="https://images-na.ssl-images-amazon.com/images/I/91G31QZtdEL.jpg" align="center" width="64" /></a> ~~[Sleuth & Solve: History: 20+ Mind-Twisting Mysteries](https://www.amazon.com/gp/product/) | 
+$17~~</div>
 
 <a href="https://www.amazon.com/gp/product/B07Q9Y59WS/"><img src="https://images-na.ssl-images-amazon.com/images/I/61K2ZEE582L._AC_UL1500_.jpg" align="center" width="64" ></a> [Doctor Unicorn Soft Unicorn Hooded Galaxy Bathrobe](https://www.amazon.com/gp/product/B07Q9Y59WS/)  | size: 7-9 years | 
 $19
