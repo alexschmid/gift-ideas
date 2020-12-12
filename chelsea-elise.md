@@ -3,10 +3,18 @@
 <a href="https://www.amazon.com/gp/product/B083KFHKZR/"><img src="https://images-na.ssl-images-amazon.com/images/I/614tp4jzhUL._AC_SL1000_.jpg" align="center" width="64" ></a> [Wooden Wobble Balance Board](https://www.amazon.com/gp/product/B083KFHKZR/) | 
 $80
 
-<a href="https://www.amazon.com/gp/product/B00NU9VNDQ/"><img src="https://images-na.ssl-images-amazon.com/images/I/51X3FsEhY6L._AC_SL1000_.jpg" align="center" width="64" ></a> [Hape Dynamo Kid's Wooden Domino Set](https://www.amazon.com/gp/product/B00NU9VNDQ/) | 
-$40
+<a href="https://www.amazon.com/gp/product/B00NU9VNDQ/"><img style="opacity: 0.3" src="https://images-na.ssl-images-amazon.com/images/I/51X3FsEhY6L._AC_SL1000_.jpg" align="center" width="64" ></a> ~~[Hape Dynamo Kid's Wooden Domino Set](https://www.amazon.com/gp/product/B00NU9VNDQ/) |~~
+**TAKEN**
 
 # Gift Ideas for Chelsea <img src="assets/images/chelsea.png" align="center" width="64" >
+
+<a href="https://www.amazon.com/gp/product/B07JFP5G4L/"><img src="https://images-na.ssl-images-amazon.com/images/I/71fay-1MwXL._AC_SL1500_.jpg" align="center" width="64" ></a> [Logitech Crayon Digital Pencil for iPad](https://www.amazon.com/gp/product/B07JFP5G4L/) | 
+~$67
+
+**OR**
+
+<a href="https://www.amazon.com/Apple-MK0C2AM-A-Apple-Pencil/dp/B016NY7784/"><img src="https://images-na.ssl-images-amazon.com/images/I/21l795GXZkL._AC_SL1024_.jpg" align="center" height="64" ></a> [Apple Pencil (1st generation)](https://www.amazon.com/Apple-MK0C2AM-A-Apple-Pencil/dp/B016NY7784/) | 
+~$95
 
 <a href="https://www.amazon.com/gp/product/1452180075/"><img style="opacity: 0.3" src="https://images-na.ssl-images-amazon.com/images/I/91G31QZtdEL.jpg" align="center" width="64" /></a> ~~[Sleuth & Solve: History: 20+ Mind-Twisting Mysteries](https://www.amazon.com/gp/product/) |~~
 **TAKEN**
