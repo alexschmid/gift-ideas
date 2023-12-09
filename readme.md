@@ -4,10 +4,8 @@
 
 <h2 align="center"><img src="assets/images/sarah.png" align="center" width="64" > <a href="sarah.html">Sarah</a></h2>
 
-<h2 align="center"><img src="assets/images/chelsea.png" align="center" width="64" > <a href="chelsea.html">Chelsea and Elise</a></h2>
+<h2 align="center"><img src="assets/images/chelsea.png" align="center" width="64" > <a href="chelsea.html">Chelsea</a></h2>
 
-<h2 align="center"><img src="assets/images/elise.png" align="center" width="64" > <a href="elise.html">Chelsea and Elise</a></h2>
+<h2 align="center"><img src="assets/images/elise.png" align="center" width="64" > <a href="elise.html">CElise</a></h2>
 
 <h2 align="center"><img src="assets/images/lachlan.png" align="center" width="64" > <a href="lachlan.html">Lachlan</a></h2>
-
-<h2 align="center"><img src="assets/images/chelsea-elise.png" align="center" width="64" > <a href="chelsea-elise.html">Chelsea and Elise (remove)</a></h2>
