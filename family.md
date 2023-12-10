@@ -8,4 +8,9 @@ $99
 
 # Gifts for the Children
 
+<!--
+<a href="link"><img src="imagelink" align="center" width="64" ></a> [ItemName](link) |
+$price
+-->
+
 ##### [back](readme.md)
