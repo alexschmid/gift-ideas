@@ -10,7 +10,11 @@
 - <a href="https://www.apple.com/us-edu/shop/product/MT613AM/A/49mm-blue-black-trail-loop-s-m?"><img src="https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MT613ref_AV3?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1692899042125" align="center" width="64" ></a> Apple Watch Band Blue/Black Trail Loop - Medium/Large (M/L) [Apple](https://www.apple.com/us-edu/shop/product/MT613AM/A/49mm-blue-black-trail-loop-s-m) |
   [Amazon](https://www.amazon.com/Apple-Watch-Band-Trail-Black/dp/B0CHX3VTSL/) |
   $99
-- <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Target, Apple, or Amazon gift cards
+- <a href="https://www.ikea.com/us/en/p/dirigera-hub-for-smart-products-white-smart-50503414/"><img src="https://www.ikea.com/us/en/images/products/dirigera-hub-for-smart-products-white-smart__1032017_pe836737_s5.jpg?f=xl" align="center" width="64" ></a> [IKEA DIRIGERA Hub for smart products](https://www.ikea.com/us/en/p/dirigera-hub-for-smart-products-white-smart-50503414/) |
+$70
+- <a href="https://www.amazon.com/Astropad-Rock-Paper-Pencil-Replacement/dp/B0CKJSQGJR"><img src="https://m.media-amazon.com/images/I/71axeInMaLL._AC_SL1500_.jpg" align="center" width="64" ></a> [Astropad Rock Paper Pencil – Paper Screen Protector for iPad Pro 12.9 inch](https://www.amazon.com/Astropad-Rock-Paper-Pencil-Replacement/dp/B0CKJSQGJR) |
+$42
+- <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Target, Apple, IKEA, or Amazon gift cards
 
 <!--
 <a href="link"><img src="imagelink" align="center" width="64" ></a> [ItemName](link) |
