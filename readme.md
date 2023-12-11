@@ -1,4 +1,4 @@
-<h2 align="center"><img src="assets/images/family.png" align="center" width="256" >
+<h2 align="center"><a href="assets/images/family.png"><img src="assets/images/family.png" align="center" width="256" ></a>
 
 <a href="family.html">Family</a></h2>
 
