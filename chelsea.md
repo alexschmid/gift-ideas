@@ -1,6 +1,4 @@
-<img src="assets/images/chelsea2.png" align="center" width="120" >
-
-**Gift Ideas for Chelsea**
+<img src="assets/images/chelsea2.png" align="center" width="120" >**Gift Ideas for Chelsea**
 
 - [Graphic novels](https://www.target.com/s?searchTerm=graphic+novels+girls) (feel free to check with us about book that she already has)
 - <a href="https://www.sanrio.com/collections/my-melody"><img src="https://i.shgcdn.com/0465384c-9563-417b-b638-517529f21c3c/-/format/auto/-/preview/3000x3000/-/quality/lighter/" align="center" width="64" ></a> [My Melody](https://www.sanrio.com/collections/my-melody) stuff
