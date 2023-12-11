@@ -1,7 +1,8 @@
 <img src="assets/images/chelsea2.png" align="center" width="128" >**Gift Ideas for Chelsea**
 
 - [Graphic novels](https://www.target.com/s?searchTerm=graphic+novels+girls) (feel free to check with us about book that she already has)
-- <a href="https://www.sanrio.com/collections/my-melody"><img src="https://i.shgcdn.com/0465384c-9563-417b-b638-517529f21c3c/-/format/auto/-/preview/3000x3000/-/quality/lighter/" align="center" width="64" ></a> [My Melody](https://www.sanrio.com/collections/my-melody) stuff
+- [Advancded Lego Sets](https://www.target.com/s?searchTerm=lego+sets+for+girls&tref=typeahead%7Cterm%7C3%7C%7C%7C%7C%7Chistory&category=0%7CAll%7Cmatchallpartial%7Call+categories&searchTermRaw=&facetedValue=56h5nZ4q1qZoser0&ignoreBrandExactness=true&moveTo=product-list-grid&sortBy=PriceLow)
+- <a href="https://www.sanrio.com/collections/my-melody"><img src="https://i.shgcdn.com/0465384c-9563-417b-b638-517529f21c3c/-/format/auto/-/preview/3000x3000/-/quality/lighter/" align="center" width="64" ></a> [My Melody](https://www.sanrio.com/collections/my-melody) stuff (let us know if you would like suggestions)
 - <a href="https://www.target.com/p/mga-39-s-miniverse-make-it-mini-lifestyle-series-1-mini-collectibles/-/A-87868321"><img src="https://target.scene7.com/is/image/Target/GUEST_c4cdf8c8-5733-407c-bf0e-067e5a7a904d?wid=800&hei=800&qlt=80&fmt=webp" align="center" width="64" ></a> [MGA’s Miniverse Make It Mini](https://www.target.com/p/mga-39-s-miniverse-make-it-mini-lifestyle-series-1-mini-collectibles/-/A-87868321) (mini plant toys) |
   $10
 - Cute shirts/crop tops
