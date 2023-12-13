@@ -11,6 +11,10 @@
   $25
 - <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Apple or Target gift cards
 
+**Chelsea's Christmas List**
+
+<a href="assets/images/chelsea-list.jpg"><img src="assets/images/chelsea-list.jpg" align="center" width="128" ></a>
+
 <!--
 <a href="link"><img src="imagelink" align="center" width="64" ></a> [ItemName](link) |
 $price

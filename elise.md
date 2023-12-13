@@ -5,6 +5,12 @@
   $25
 - <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Apple or Target gift cards
 
+**Elise's Christmas List**
+
+Page 1 <a href="assets/images/elise-list1.jpeg"><img src="assets/images/elise-list1.jpeg" align="center" width="128" ></a>
+
+Page 2 <a href="assets/images/elise-list2.jpeg"><img src="assets/images/elise-list2.jpeg" align="center" width="128" ></a>
+
 <!--
 <a href="link"><img src="imagelink" align="center" width="64" ></a> [ItemName](link) |
 $price
