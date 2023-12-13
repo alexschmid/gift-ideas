@@ -9,7 +9,7 @@
 - Rainbow High dolls (especially [Rainbow High Color & Create DIY Fashion Doll - Blue Eyes/Straight Hair](https://www.target.com/p/rainbow-high-color-38-create-diy-fashion-doll-blue-eyes-straight-hair/-/A-88084809))
 - LOL dolls
 - OMG dolls
-- <a href="https://www.amazon.com/REAL-LITTLES-S7-Journal-Pk/dp/B0BQNFJTP3/"><img src="https://m.media-amazon.com/images/I/71RUMCMWAML._AC_SL1500_.jpg" align="center" width="64" ></a> [REAL LITTLES - Collectible 50 Page Micro Journal with 3 Surprises Inside!](https://www.amazon.com/REAL-LITTLES-S7-Journal-Pk/dp/B0BQNFJTP3/) |
+- <a href="https://www.amazon.com/REAL-LITTLES-Disney-S5-Journal/dp/B0BQNDYF9S/"><img src="https://m.media-amazon.com/images/I/81SRg7TQ5UL._AC_SX679_.jpg" align="center" width="64" ></a> [REAL LITTLES Disney Collectible Micro Journal](https://www.amazon.com/REAL-LITTLES-Disney-S5-Journal/dp/B0BQNDYF9S/) |
   $10
 - Painting stuff
 - Coloring stuff
