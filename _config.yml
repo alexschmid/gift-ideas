@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 title: Christmas Gift Ideas
 github:
   is_project_page: false
