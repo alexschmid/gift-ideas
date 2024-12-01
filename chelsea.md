@@ -16,7 +16,7 @@
 <a href="assets/images/chelsea-list.jpg" target="_blank"><img src="assets/images/chelsea-list.jpg" align="center" width="128" ></a>
 
 <!--
-<a href="link" target="_blank"><img src="imagelink" align="center" width="64" ></a> [ItemName](link){:target="_blank"} |
+- <a href="link" target="_blank"><img src="imagelink" align="center" width="64" ></a> [ItemName](link){:target="_blank"} |
 $price
 -->
 

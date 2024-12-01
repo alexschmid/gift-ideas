@@ -6,7 +6,7 @@
   $99
 
 <!--
-<a href="link" target="_blank"><img src="imagelink" align="center" width="64" ></a> [ItemName](link){:target="_blank"} |
+- <a href="link" target="_blank"><img src="imagelink" align="center" width="64" ></a> [ItemName](link){:target="_blank"} |
 $price
 -->
 
