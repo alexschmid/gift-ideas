@@ -29,9 +29,7 @@ Sleeping Stitch - miniso
 
 **Elise's Hand Written Christmas List**
 
-Page 1 <a href="assets/images/elise-list1.jpeg" target="_blank"><img src="assets/images/elise-list1.jpeg" align="center" width="128" ></a>
-
-Page 2 <a href="assets/images/elise-list2.jpeg" target="_blank"><img src="assets/images/elise-list2.jpeg" align="center" width="128" ></a>
+<a href="assets/images/elise-list.jpeg" target="_blank"><img src="assets/images/elise-list.jpeg" align="center" width="128" ></a>
 
 <!--
 - <a href="link" target="_blank"><img src="imagelink" align="center" width="64" ></a> [ItemName](link){:target="_blank"} |
