@@ -1,5 +1,5 @@
 <h2 align="center">2025</h2>
-<h2 align="center"><a href="assets/images/family.png"><img src="assets/images/family.png" align="center" width="256" ></a></h2>
+<h2 align="center"><a href="assets/images/family.png"><img src="assets/images/family.png" align="center" width="256" ></a>
 
 <a href="family.html">Family</a></h2>
 
