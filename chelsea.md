@@ -6,6 +6,9 @@
 - <a href="https://www.amazon.com/gp/product/B09NQNRJTK/" target="_blank"><img src="https://m.media-amazon.com/images/I/51kb2iT4qRL._AC_SL1500_.jpg" align="center" width="64" ></a> [Logitech Wireless Mouse Signature M650](https://www.amazon.com/gp/product/B09NQNRJTK/){:target="\_blank"} |
   $34
 
+- <a href="https://www.amazon.com/Big-Life-Journal-Growth-Mindset/dp/0692165509/" target="_blank"><img src="https://m.media-amazon.com/images/I/81FMw9pX92L._AC_SL1500_.jpg" align="center" width="64" ></a> [Big Life Journal – Growth Mindset & Gratitude Journal for Teens and Tweens](https://www.amazon.com/Big-Life-Journal-Growth-Mindset/dp/0692165509/){:target="\_blank"} |
+  $28
+
 - <img src="https://www.justdrums.com/wp-content/uploads/2018/12/giftcard_image1.png" align="center" width="64"> Apple or Roblox gift cards
 
 <!-- **Chelsea's Hand Written Christmas List**

@@ -1,7 +1,7 @@
 <img src="assets/images/alex3.png" align="center" width="128" >**Gift Ideas for Alex**
 
 - <a href="https://www.amazon.com/Fellow-Stagg-Electric-Gooseneck-Kettle/dp/B0BF7DXLBF/" target="_blank"><img src="https://m.media-amazon.com/images/I/51G1Cou90EL._AC_SL1500_.jpg" align="center" width="64" ></a> [Fellow Stagg EKG Pro Electric Gooseneck Kettle](https://www.amazon.com/Fellow-Stagg-Electric-Gooseneck-Kettle/dp/B0BF7DXLBF/){:target="\_blank"} |
-  $143 (Amazon) - $127 (Manchester Costco)
+  $143 (Amazon) or $127 (Manchester Costco)
 
 - <a href="https://www.amazon.com/gp/product/B0FKBJL68H/" target="_blank"><img src="https://m.media-amazon.com/images/I/81kjpa6DXOL._AC_SL1500_.jpg" align="center" width="64" ></a> [Hoto PixelDrive electric screwdriver](https://www.amazon.com/gp/product/B0FKBJL68H/){:target="\_blank"} |
   $80 (currently on sale for $60)
