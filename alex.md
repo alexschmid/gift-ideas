@@ -1,5 +1,8 @@
 <img src="assets/images/alex3.png" align="center" width="128" >**Gift Ideas for Alex**
 
+- Stagg electric kettle
+- Hoto PixelDrive electric screwdriver 
+
 - <a href="[link](https://www.costco.com/p/-/nordic-ware-simply-sourdough-starter-kit/4000377420?langId=-1)" target="_blank"><img src="https://bfasset.costco-static.com/U447IH35/as/28hr6mn538t87q844p778x9/4000377420-847__1?auto=webp&format=jpg&width=1024&height=1024&fit=bounds&canvas=1024%2C1024" align="center" width="64" ></a> [Nordic Ware Simply Sourdough Starter Kit](https://www.costco.com/p/-/nordic-ware-simply-sourdough-starter-kit/4000377420?langId=-1){:target="\_blank"} |
   $70 (in store) or $80 (online)
 
