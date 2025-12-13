@@ -1,7 +1,7 @@
 <h2 align="center">2025</h2>
-<h2 align="center"><a href="assets/images/family.png"><img src="assets/images/family.png" align="center" width="256" ></a>
+<!-- <h2 align="center"><a href="assets/images/family.png"><img src="assets/images/family.png" align="center" width="256" ></a> -->
 
-<a href="family.html">Family</a></h2>
+<!-- <a href="family.html">Family</a></h2> -->
 
 <h2 align="center"><img src="assets/images/alex.png" align="center" width="96" ><a href="alex.html">Alex</a><img src="assets/images/sarah.png" align="center" width="96" ><a href="sarah.html">Sarah</a></h2>
 
