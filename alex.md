@@ -9,7 +9,7 @@
   $80 (currently on sale for $60)
 
 - <a href="https://www.rei.com/product/169962/hydro-flask-coffee-with-flex-sip-lid-20-fl-oz" target="_blank"><img src="https://www.rei.com/media/6989f7ea-4510-4a43-a1da-9ce5b19c960f?size=2000" align="center" width="64" ></a> [Hydro Flask Coffee - 20 fl. oz. (Summit Blue)](https://www.rei.com/product/169962/hydro-flask-coffee-with-flex-sip-lid-20-fl-oz){:target="\_blank"} |
-  $35
+  $35 at [REI](ttps://www.rei.com/product/169962/hydro-flask-coffee-with-flex-sip-lid-20-fl-oz) or [Hydro Flask](https://www.hydroflask.com/20-oz-coffee-with-flex-sip-lid?color=Summit+Blue)
 
 - <a href="[link](https://www.costco.com/p/-/nordic-ware-simply-sourdough-starter-kit/4000377420?langId=-1)" target="_blank"><img src="https://bfasset.costco-static.com/U447IH35/as/28hr6mn538t87q844p778x9/4000377420-847__1?auto=webp&format=jpg&width=1024&height=1024&fit=bounds&canvas=1024%2C1024" align="center" width="64" ></a> [Nordic Ware Simply Sourdough Starter Kit](https://www.costco.com/p/-/nordic-ware-simply-sourdough-starter-kit/4000377420?langId=-1){:target="\_blank"} |
   $70 (in store) or $80 (online)
