@@ -3,7 +3,7 @@
 - <a href="https://www.amazon.com/Logitech-13004-MK335/dp/B072JX77X6/" target="_blank"><img src="https://m.media-amazon.com/images/I/517GJjOMW+L._AC_SL1500_.jpg" align="center" width="64" ></a> [Logitech MK335 Quiet Wireless Keyboard and Mouse Combo](https://www.amazon.com/Logitech-13004-MK335/dp/B072JX77X6/){:target="\_blank"} |
   $34
 
-- <a href="https://www.amazon.com/NICETOWN-Curtain-Curtains-Bedroom-Farmhouse/dp/B0F3WMDBXL/" target="_blank"><img src="https://m.media-amazon.com/images/I/91HGvRXno8L._AC_SL1500_.jpg" align="center" width="64" ></a> [NICETOWN Plaid Window Curtain, Linen Sheer Curtains 84 inches Long for Living Room](https://www.amazon.com/NICETOWN-Curtain-Curtains-Bedroom-Farmhouse/dp/B0F3WMDBXL/){:target="\_blank"} |
+- <a href="https://www.amazon.com/NICETOWN-Curtain-Curtains-Bedroom-Farmhouse/dp/B0F3WMDBXL/" target="_blank"><img src="https://m.media-amazon.com/images/I/91HGvRXno8L._AC_SL1500_.jpg" align="center" width="64" ></a> [NICETOWN Plaid Window Curtain, Linen Sheer Curtains 84 inches long](https://www.amazon.com/NICETOWN-Curtain-Curtains-Bedroom-Farmhouse/dp/B0F3WMDBXL/){:target="\_blank"} |
   $39
 
 - [Costco Gift Card](https://www.costco.com/.product.10024438.html)
